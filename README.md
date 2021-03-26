@@ -3,7 +3,7 @@ Project Name: Contacts Management System
 
 Project Duration: 15 Days
 
-Month & Year :  JAN 2018
+Month & Year :  Aug 2018
 
 
 
